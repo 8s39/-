@@ -1,0 +1,3 @@
+local toggle = Enum.KeyCode.E
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/urdad1234/BestSilentAim/main/Lua.source%22))()
